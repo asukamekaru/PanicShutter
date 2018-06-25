@@ -5,9 +5,6 @@
 # Do not ignore git files in the root of the repo.
 !/.git*
 
-# Do not ignore current project's `.uproject`.
-!/Game.uproject
-
 # Do not ignore source, config and plugins dirs.
 !/Source/**
 !/Config/**
